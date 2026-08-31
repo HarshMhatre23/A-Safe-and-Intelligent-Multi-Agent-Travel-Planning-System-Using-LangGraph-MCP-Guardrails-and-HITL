@@ -1,6 +1,6 @@
 # TripMate AI
 
-### RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph, RAG, MCP, Guardrails, and Human-in-the-Loop
+### RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph, MCP, Guardrails, and Human-in-the-Loop
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Web%20API-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -115,8 +115,8 @@ git --version
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/HarshMhatre23/RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph, RAG, MCP, Guardrails, and Human-in-the-Loop.git
-cd RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph, RAG, MCP, Guardrails, and Human-in-the-Loop
+git clone https://github.com/HarshMhatre23/RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph, MCP, Guardrails, and Human-in-the-Loop.git
+cd RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph, MCP, Guardrails, and Human-in-the-Loop
 ```
 
 ### 2. Create a virtual environment
@@ -414,7 +414,7 @@ This project is distributed under the terms of the [MIT License](LICENSE).
 **Harsh Mhatre**
 
 - GitHub: [@HarshMhatre23](https://github.com/HarshMhatre23)
-- Repository: [RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph, RAG, MCP, Guardrails, and Human-in-the-Loop](https://github.com/HarshMhatre23/RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph, RAG, MCP, Guardrails, and Human-in-the-Loop)
+- Repository: [RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph, MCP, Guardrails, and Human-in-the-Loop](https://github.com/HarshMhatre23/RouteSage AI: A Safe and Intelligent Multi-Agent Travel Planning System Using LangGraph,MCP, Guardrails, and Human-in-the-Loop)
 
 ---
 
